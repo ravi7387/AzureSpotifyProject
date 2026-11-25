@@ -1,0 +1,16 @@
+{
+	"name": "spotifyazureraviDF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b8afaf3-07a2-453d-bdf2-644b82bf5895",
+		"tenantId": "28fc6bb5-72ca-4e43-860e-1ba3ead04447"
+	}
+}
