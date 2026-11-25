@@ -1,0 +1,16 @@
+{
+	"name": "spotifyprojectraviDF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1f65b29-0dc6-4201-904a-a8bfd49f7bb6",
+		"tenantId": "28fc6bb5-72ca-4e43-860e-1ba3ead04447"
+	}
+}
